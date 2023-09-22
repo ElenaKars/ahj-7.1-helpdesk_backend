@@ -1,7 +1,5 @@
 # "7.Working with HTTP"
 
-![CI](https://github.com/ElenaKars/ahj-7.1-helpDesk/actions/workflows/web.yml/badge.svg)
-
 Rules for submitting the assignment:
 
 1. **Important**: within this DP you need to use npm (which means there should not be any `yarn.lock` in the repository)
